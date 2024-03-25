@@ -1,5 +1,3 @@
-import Pessoa;
-
 public class ExemploClassePessoa {
     public static void main(String[] args) {
         // Criando um objeto da classe Pessoa
